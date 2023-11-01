@@ -1,0 +1,12 @@
+C:\Users\beybl\Desktop\CSC301\ConcertTicket\ConcertTicketApplication\ConcertTicketApplication\bin\Debug\ConcertTicketApplication.exe.config
+C:\Users\beybl\Desktop\CSC301\ConcertTicket\ConcertTicketApplication\ConcertTicketApplication\bin\Debug\ConcertTicketApplication.exe
+C:\Users\beybl\Desktop\CSC301\ConcertTicket\ConcertTicketApplication\ConcertTicketApplication\bin\Debug\ConcertTicketApplication.pdb
+C:\Users\beybl\Desktop\CSC301\ConcertTicket\ConcertTicketApplication\ConcertTicketApplication\bin\Debug\ConcertTicketApplication.xml
+C:\Users\beybl\Desktop\CSC301\ConcertTicket\ConcertTicketApplication\ConcertTicketApplication\obj\Debug\ConcertTicketApplication.vbproj.AssemblyReference.cache
+C:\Users\beybl\Desktop\CSC301\ConcertTicket\ConcertTicketApplication\ConcertTicketApplication\obj\Debug\ConcertTicketApplication.Form1.resources
+C:\Users\beybl\Desktop\CSC301\ConcertTicket\ConcertTicketApplication\ConcertTicketApplication\obj\Debug\ConcertTicketApplication.Resources.resources
+C:\Users\beybl\Desktop\CSC301\ConcertTicket\ConcertTicketApplication\ConcertTicketApplication\obj\Debug\ConcertTicketApplication.vbproj.GenerateResource.cache
+C:\Users\beybl\Desktop\CSC301\ConcertTicket\ConcertTicketApplication\ConcertTicketApplication\obj\Debug\ConcertTicketApplication.vbproj.CoreCompileInputs.cache
+C:\Users\beybl\Desktop\CSC301\ConcertTicket\ConcertTicketApplication\ConcertTicketApplication\obj\Debug\ConcertTicketApplication.exe
+C:\Users\beybl\Desktop\CSC301\ConcertTicket\ConcertTicketApplication\ConcertTicketApplication\obj\Debug\ConcertTicketApplication.xml
+C:\Users\beybl\Desktop\CSC301\ConcertTicket\ConcertTicketApplication\ConcertTicketApplication\obj\Debug\ConcertTicketApplication.pdb
